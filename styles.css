@@ -1,0 +1,51 @@
+body{
+    background-image: url(C:/Users/user/OneDrive/Desktop/cafeMenu/images/teaBackground.jpg);
+    background-size: 2000px;
+    background-repeat: no-repeat;
+    font-family: sans-serif;
+    padding: 20px;
+    text-align: center;
+}
+
+.established{
+    font-style: italic;
+}
+
+.menu{
+    width: 80%;
+    max-width: 500px;
+    margin-right: auto;
+    margin-left: auto;
+    background-color: #f8e5bb;
+    padding: 20px;
+}
+
+h1{
+    font-size: 40px;
+}
+
+h2{
+    font-size: 30px;
+}
+
+h1, h2{
+    font-family:'Italiana', sans-serif;
+}
+
+.item p{
+    display: inline-block;
+}
+
+.flavor, .dessert{
+text-align: left;
+width: 75%;
+}
+
+.price{
+text-align: right;
+width: 25%;
+}
+
+img{
+    width: 40px;
+}
